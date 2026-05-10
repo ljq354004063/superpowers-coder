@@ -8,9 +8,8 @@ If you were dispatched as a subagent to execute a specific task, skip this skill
 </SUBAGENT-STOP>
 
 <EXTREMELY-IMPORTANT>
-Skill names MUST NOT end with "-agent".
 
-If you think there is even a 1% chance a skill might apply to what you are doing, you ABSOLUTELY MUST invoke the skill.
+If you think there is even a 1% chance a skill might apply to what you are doing, you ABSOLUTELY MUST invoke the skill（**Skill names MUST NOT end with "-agent"**）.
 
 IF A SKILL APPLIES TO YOUR TASK, YOU DO NOT HAVE A CHOICE. YOU MUST USE IT.
 
